@@ -27,5 +27,4 @@ We are trying to establish a hidden feature with big "pan-cancer" data.
 - Title: LLM-based pan-cancer single-cell modeling <br/>
 <img src="/assets/img/cancer_llm.gif"> <br/><br/>
 
-- Title: Single-cell TCR/BCR repertoire method optimazation <br/>
-<img src="/assets/img/job.png" width="100"/> <br/><br/><br/>
+
