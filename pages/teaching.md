@@ -6,4 +6,4 @@ permalink: /teaching
 
 ### Teaching material
 
-1.[Teaching material1](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/main/path/to/your/file)
+1.[Teaching material1](https://github.com/jaewon-cho/jaewon-cho.github.io/assets/img/job.png)
