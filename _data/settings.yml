@@ -14,7 +14,7 @@ menu:
 - {name: 'Resources',	url: 'resources'}
 - {name: 'Job Opportunities',	url: 'opportunities'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Teaching',            url: 'teaching'}
+- {name: 'Teaching',          url: 'teaching'}
 
 sharing_button_prompt: 'Feel free to share!'
 
