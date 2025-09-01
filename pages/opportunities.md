@@ -4,6 +4,6 @@ title: Opportunities
 permalink: /opportunities
 ---
 
-<img src="/assets/img/job.png" width="100"/>
-
-Not opened, yet
+We are looking for Master students, undergraduate students, and lab technicians.
+If you are interested in joining the lab, please contact me via email.
+dreadcupper<at>hanyang.ac.kr
