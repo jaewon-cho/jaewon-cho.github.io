@@ -10,7 +10,9 @@ permalink: /publications
 ## <a id="2025"></a>2025
 Nothing <br/>
 
-## <a id="Post-doc"></a>Post-doc (6)
+## <a id="Post-doc"></a>Post-doc (8)
+8 Jae-Won Cho*, Jingyi Cao and Martin Hemberg**, [*Single-cell splicing QTL analysis in pancreatic islets*]([https://doi.org/10.1038/s41467-025-56473-x](https://doi.org/10.3389/fbinf.2025.1657895)), Frontiers in Bioinformatics, 202509
+
 7 Jimmy Tsz Hang Lee*, Sam N. Barnett*, Kenny Roberts, Helen Ashwin, Luke Milross, **Jae-Won Cho**, …, Andrew J. Fisher, Martin Hemberg, Michela Noseda, Omer Ali Bayraktar, [*Integrated histopathology, spatial and single cell transcriptomics resolve cellular drivers of early and late alveolar damage in COVID-19*](https://doi.org/10.1038/s41467-025-56473-x), Nature Communications, 202503 
 
 6 Carina Shiau, Jingyi Cao, Dennis Gong, Mark T Gregory, Nicholas J Caldwell, Xunqin Yin, **Jae-Won Cho**, Peter L Wang, Jennifer Su, Steven Wang, Jason W Reeves, Tae Kyung Kim, Youngmi Kim, Jimmy A Guo, Nicole A Lester, Jung Woo Bae, Ryan Zhao, Nathan Schurman, Jamie L Barth, Maria L Ganci, Ralph Weissleder, Tyler Jacks, Motaz Qadan, Theodore S Hong, Jennifer Y Wo, Hannah Roberts, Joseph M Beechem, Carlos Fernandez-del Castillo, Mari Mino-Kenudson, David T Ting, Martin Hemberg, William L Hwang, [*Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment*](https://www.nature.com/articles/s41588-024-01890-9), Nature Genetics, 202409
