@@ -11,7 +11,7 @@ permalink: /publications
 Nothing <br/>
 
 ## <a id="Post-doc"></a>Post-doc (8)
-8 **Jae-Won Cho#**, Jingyi Cao and Martin Hemberg, [*Single-cell splicing QTL analysis in pancreatic islets*],(https://doi.org/10.3389/fbinf.2025.1657895), Frontiers in Bioinformatics, 202509
+8 **Jae-Won Cho#**, Jingyi Cao and Martin Hemberg, [*Single-cell splicing QTL analysis in pancreatic islets*](https://doi.org/10.3389/fbinf.2025.1657895), Frontiers in Bioinformatics, 202509
 
 7 Jimmy Tsz Hang Lee*, Sam N. Barnett*, Kenny Roberts, Helen Ashwin, Luke Milross, **Jae-Won Cho**, …, Andrew J. Fisher, Martin Hemberg, Michela Noseda, Omer Ali Bayraktar, [*Integrated histopathology, spatial and single cell transcriptomics resolve cellular drivers of early and late alveolar damage in COVID-19*](https://doi.org/10.1038/s41467-025-56473-x), Nature Communications, 202503 
 
