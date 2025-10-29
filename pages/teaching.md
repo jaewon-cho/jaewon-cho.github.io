@@ -14,8 +14,8 @@ permalink: /teaching
 4.[2025_2 Teaching material4](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/3_scRNA2_lecture.pdf)<br/>
 5.[2025_2 Teaching material5](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/4_Cite_TCRseq_lecture.pdf)<br/><br/>
 
-6.[2025_2 Teaching material6](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/5_scDNA_seq_lecture.pdf)<br/><br/>
-7.[2025_2 Teaching material7](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/6_scATAC1_lecture.pdf)<br/><br/>
+6.[2025_2 Teaching material6](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/5_scDNA_seq_lecture.pdf)<br/>
+7.[2025_2 Teaching material7](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/6_scATAC1_lecture.pdf)<br/>
 
 00.[test_image](https://raw.githubusercontent.com/jaewon-cho/jaewon-cho.github.io/main/assets/img/job.png)<br/>
 
