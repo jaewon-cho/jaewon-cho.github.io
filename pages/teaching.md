@@ -16,6 +16,7 @@ permalink: /teaching
 
 6.[2025_2 Teaching material6](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/5_scDNA_seq_lecture.pdf)<br/>
 7.[2025_2 Teaching material7](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/6_scATAC1_lecture.pdf)<br/>
+8.[2025_2 Teaching material8](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/7_scATAC2_lecture.pdf)<br/>
 
 00.[test_image](https://raw.githubusercontent.com/jaewon-cho/jaewon-cho.github.io/main/assets/img/job.png)<br/>
 
