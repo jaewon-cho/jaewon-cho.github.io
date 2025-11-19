@@ -18,6 +18,8 @@ permalink: /teaching
 7.[2025_2 Teaching material7](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/6_scATAC1_lecture.pdf)<br/>
 8.[2025_2 Teaching material8](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/7_scATAC2_lecture.pdf)<br/>
 9.[2025_2 Teaching material9](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/8_perturb_seq_lecture.pdf)<br/>
+10.[2025_2 Teaching material10](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/9_spatial1_lecture.pdf)<br/>
+11.[2025_2 Teaching material11](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/10_spatial2_lecture.pdf)<br/>
 
 00.[test_image](https://raw.githubusercontent.com/jaewon-cho/jaewon-cho.github.io/main/assets/img/job.png)<br/>
 
