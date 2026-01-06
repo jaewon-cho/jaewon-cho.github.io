@@ -6,22 +6,22 @@ permalink: /people
 
 ## Current members
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; text-align: center;">
 
   <div>
-    <img src="/assets/img/jaewon.jpg" width="60"/>
+    <img src="/assets/img/jaewon.jpg" width="80"/>
     <p><strong>Jae-Won Cho, PhD</strong><br>
     Principle Investigator (2025)</p>
   </div>
 
   <div>
-    <img src="/assets/img/sangheokcho.jpg" width="60"/>
+    <img src="/assets/img/sangheokcho.jpg" width="80"/>
     <p><strong>Sang Hyeok Jo</strong><br>
     Master student (2026-1)</p>
   </div>
 
   <div>
-    <img src="/assets/img/seeheehong.jpg" width="60"/>
+    <img src="/assets/img/seeheehong.jpg" width="80"/>
     <p><strong>Seohee Hong</strong><br>
     Intern (2026)</p>
   </div>
