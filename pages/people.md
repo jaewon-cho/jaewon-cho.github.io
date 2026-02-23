@@ -20,11 +20,6 @@ permalink: /people
     Master student (2026-1)</p>
   </div>
 
-  <div>
-    <img src="/assets/img/seeheehong.jpg" width="80"/>
-    <p><strong>Seohee Hong</strong><br>
-    Intern (2026)</p>
-  </div>
 
 </div>
 
@@ -32,5 +27,5 @@ permalink: /people
 
 ## Alumni 
 
-* NA
+* Seohee Hong: Intern (202601-02)</br>
 
