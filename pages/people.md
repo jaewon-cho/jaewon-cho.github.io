@@ -27,5 +27,5 @@ permalink: /people
 
 ## Alumni 
 
-* Seohee Hong: Intern (202601-02)</br>
+* Seohee Hong: Intern (202601-02)
 
