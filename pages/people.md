@@ -21,13 +21,13 @@ permalink: /people
   </div>
 
   <div>
-    <img src="/assets/img/sionlee" width="80"/>
+    <img src="/assets/img/sionlee.jpeg" width="80"/>
     <p><strong>Sion Lee</strong><br>
     Undergraduate Intern (2026 summer)</p>
   </div>
 
   <div>
-    <img src="/assets/img/sangheokcho.jpg" width="80"/>
+    <img src="/assets/img/maevechoi.jpg" width="80"/>
     <p><strong>Maeve Choi</strong><br>
     Undergraduate Intern (2026 summer)</p>
   </div>
