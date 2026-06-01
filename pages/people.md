@@ -26,7 +26,7 @@ permalink: /people
     Undergraduate Intern (2026 summer)</p>
   </div>
 
-    <div>
+  <div>
     <img src="/assets/img/sangheokcho.jpg" width="80"/>
     <p><strong>Maeve Choi</strong><br>
     Undergraduate Intern (2026 summer)</p>
