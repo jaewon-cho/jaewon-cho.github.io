@@ -20,6 +20,17 @@ permalink: /people
     Master student (2026-1)</p>
   </div>
 
+  <div>
+    <img src="/assets/img/sionlee" width="80"/>
+    <p><strong>Sion Lee</strong><br>
+    Undergraduate Intern (2026 summer)</p>
+  </div>
+
+    <div>
+    <img src="/assets/img/sangheokcho.jpg" width="80"/>
+    <p><strong>Maeve Choi</strong><br>
+    Undergraduate Intern (2026 summer)</p>
+  </div>
 
 </div>
 
@@ -27,5 +38,5 @@ permalink: /people
 
 ## Alumni 
 
-* Seohee Hong: Intern (202601-02)
+* Seohee Hong: Undergraduate Intern (202601-02)
 
