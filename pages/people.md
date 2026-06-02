@@ -9,31 +9,34 @@ permalink: /people
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; text-align: center;">
 
   <div>
-    <img src="/assets/img/jaewon.jpg" width="80"/>
+    <img src="/assets/img/jaewon.jpg"
+         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Jae-Won Cho, PhD</strong><br>
-    Principle Investigator (2025)</p>
+    Principal Investigator (2025)</p>
   </div>
 
   <div>
-    <img src="/assets/img/sangheokcho.jpg" width="80"/>
+    <img src="/assets/img/sangheokcho.jpg"
+         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Sang Hyeok Jo</strong><br>
     Master student (2026-1)</p>
   </div>
 
   <div>
-    <img src="/assets/img/sionlee.jpeg" width="80"/>
+    <img src="/assets/img/sionlee.jpeg"
+         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Sion Lee</strong><br>
     Undergraduate Intern (2026 summer)</p>
   </div>
 
   <div>
-    <img src="/assets/img/maevechoi.jpg" width="80"/>
+    <img src="/assets/img/maevechoi.jpg"
+         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Maeve Choi</strong><br>
     Undergraduate Intern (2026 summer)</p>
   </div>
 
 </div>
-
 
 
 ## Alumni 
