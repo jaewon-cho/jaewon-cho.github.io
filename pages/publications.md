@@ -10,7 +10,9 @@ permalink: /publications
 ## <a id="2025"></a>2025
 Nothing <br/>
 
-## <a id="Post-doc"></a>Post-doc (10)
+## <a id="Post-doc"></a>Post-doc (11)
+11 Jeanna M Arbesfeld-Qiu, **Jae-Won Cho**, …, Martin Hemberg, William L Hwang, [*Distinct malignant cell states and myeloid glutamate signaling associated with aggressive pancreatic neuroendocrine tumors*](https://doi.org/10.1158/1078-0432.CCR-25-2565), Clinical Cancer Research, 202606
+
 10 Victoria Gudiño, **Jae Won Cho**, …, Martin Hemberg, Azucena Salas, [*TL1A-activated T cells remodel the rectal mucosa in patients with Crohn’s disease with perianal fistulising disease*](https://doi.org/10.1136/gutjnl-2025-336246), Gut, 202512
 
 9 Shaokun An, **Jae-Won Cho**, Kai Cao, Jiankang Xiong, Martin Hemberg and Lin Wan, [*scCausalVI disentangles single-cell perturbation responses with causality-aware generative model*](https://doi.org/10.1016/j.cels.2025.101443), Cell Systems, 202511
