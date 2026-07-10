@@ -14,6 +14,8 @@ Nothing <br/>
 Nothing <br/>
 
 ## <a id="Post-doc"></a>Post-doc (11)
+12 XIXI ZHANG, SHERIN XIRENAYI, YE ZAHO, WEN WANG, YUYANG HAN, MIGUEL SOBRAL, SHAWN KANG, CHI ZHANG, GRAHAM L. BARLOW, JASON PYRDOL, **JAE-WON CHO**, …, KAI W. WUCHERPFENNIG, [*The CARM1 epigenetic enzyme inhibits cross-presenting dendritic cell function in cancer immunity*](DOI: 10.1126/science.aea1200), Science, 202607
+
 11 Jeanna M Arbesfeld-Qiu, **Jae-Won Cho**, …, Martin Hemberg, William L Hwang, [*Distinct malignant cell states and myeloid glutamate signaling associated with aggressive pancreatic neuroendocrine tumors*](https://doi.org/10.1158/1078-0432.CCR-25-2565), Clinical Cancer Research, 202606
 
 10 Victoria Gudiño, **Jae Won Cho**, …, Martin Hemberg, Azucena Salas, [*TL1A-activated T cells remodel the rectal mucosa in patients with Crohn’s disease with perianal fistulising disease*](https://doi.org/10.1136/gutjnl-2025-336246), Gut, 202512
