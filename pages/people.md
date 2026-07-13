@@ -36,6 +36,20 @@ permalink: /people
     Undergraduate Intern (2026 summer)</p>
   </div>
 
+  <div>
+    <img src="/assets/img/seungryong.jpg"
+         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Seungryong Han</strong><br>
+    Undergraduate Intern (2026 summer)</p>
+  </div>
+
+  <div>
+    <img src="/assets/img/miseung_kim.jpg"
+         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Miseung Kim</strong><br>
+    Undergraduate Intern (2026 summer)</p>
+  </div>
+
 </div>
 
 
