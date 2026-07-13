@@ -44,7 +44,7 @@ permalink: /people
   </div>
 
   <div>
-    <img src="/assets/img/miseung_kim.jpg"
+    <img src="/assets/img/miseung_kim.JPG"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Miseung Kim</strong><br>
     Undergraduate Intern (2026 summer)</p>
