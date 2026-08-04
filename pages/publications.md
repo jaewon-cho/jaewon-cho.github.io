@@ -8,7 +8,7 @@ permalink: /publications
 [2026](#2026) [2025](#2025) [Post-doc](#Post-doc) [PhD](#PhD) [Master](#Master)
 
 ## <a id="2026"></a>2026
-1 **Jae-Won Cho**, [*Benchmarking the prediction of responding cells to perturbations affecting both gene expression and cellular abundance using scRNA sequencing*]([https://doi.org/10.1093/nar/gkac1042](https://doi.org/10.1038/s41598-026-54526-9), Scientific Reports, 202605
+1 **Jae-Won Cho**, [*Benchmarking the prediction of responding cells to perturbations affecting both gene expression and cellular abundance using scRNA sequencing*](https://doi.org/10.1038/s41598-026-54526-9), Scientific Reports, 202605
 
 ## <a id="2025"></a>2025
 Nothing <br/>
