@@ -23,20 +23,6 @@ permalink: /people
   </div>
 
   <div>
-    <img src="/assets/img/sionlee.jpeg"
-         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Sion Lee</strong><br>
-    Undergraduate Intern (2026 summer)</p>
-  </div>
-
-  <div>
-    <img src="/assets/img/maevechoi.jpg"
-         style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Maeve Choi</strong><br>
-    Undergraduate Intern (2026 summer)</p>
-  </div>
-
-  <div>
     <img src="/assets/img/seungryong.jpg"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Seungryong Han</strong><br>
@@ -54,6 +40,7 @@ permalink: /people
 
 
 ## Alumni 
-
+* Maeve Choi: Undergraduate Intern (202606-07) 
+* Sion Lee: Undergraduate Intern (202606-07)
 * Seohee Hong: Undergraduate Intern (202601-02)
 
