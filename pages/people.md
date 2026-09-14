@@ -30,7 +30,7 @@ permalink: /people
   </div>
 
   <div>
-    <img src="/assets/img/dayunseong.jepg"
+    <img src="/assets/img/dayunseong.jpeg"
          style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
     <p><strong>Dayun Sung</strong><br>
     Undergraduate Intern (2026 summer)</p>
