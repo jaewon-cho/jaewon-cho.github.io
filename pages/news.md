@@ -3,6 +3,9 @@ layout: page
 title: News
 permalink: /news
 ---
+### Sept 1, 2026
+Undergraduate summer intern Bona joined.
+
 ### July 20, 2026
 Undergraduate summer intern Miseung joined.
 
