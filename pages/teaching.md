@@ -9,6 +9,7 @@ permalink: /teaching
 2.[Teaching material2](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/programming.pdf)<br/> 
 3.[Teaching material3](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat1.pdf)<br/> 
 4.[Teaching material4](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat2.pdf)<br/> 
+5.[Teaching material5](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat3.pdf)<br/> 
 
 ### 조편성
 1조: 김민우, 방준휘, 신은서<br/>
