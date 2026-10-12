@@ -16,6 +16,10 @@ permalink: /teaching
 2조: 장인선, 김민수, 한지혜, 신윤서<br/>
 3조: 이여원 이수아, 이재호<br/>
 
+### 조별과제
+[자료](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/team_project.zip)<br/>
+[데이터](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/data.zip)<br/>
+
 
 00.[test_image](https://raw.githubusercontent.com/jaewon-cho/jaewon-cho.github.io/main/assets/img/job.png)<br/>
 
