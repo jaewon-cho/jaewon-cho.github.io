@@ -7,10 +7,19 @@ permalink: /teaching
 ### Teaching material 2026-2
 1.[Teaching material1](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/intro.pdf)<br/>
 2.[Teaching material2](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/programming.pdf)<br/> 
+
 3.[Teaching material3](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat1.pdf)<br/> 
 4.[Teaching material4](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat2.pdf)<br/> 
 5.[Teaching material5](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat3.pdf)<br/> 
 6.[Teaching material6](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat4.pdf)<br/>
+7.[Teaching material7](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat5.pdf)<br/>
+
+8.[Teaching material8](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/AI1_MLP.pdf)<br/>
+9.[Teaching material9](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/AI2_CNN.pdf)<br/>
+10.[Teaching material10](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/AI3_VAE.pdf)<br/>
+
+11.[Teaching material11](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/r2.pdf)<br/>
+12.[Teaching material12](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/python2.pdf)<br/>
 
 ### 조편성
 1조: 김민우, 방준휘, 신은서: scATAC-seq<br/>
