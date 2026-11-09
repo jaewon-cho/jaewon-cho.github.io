@@ -15,7 +15,7 @@ permalink: /teaching
 7.[Teaching material7](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/biostat5.pdf)<br/>
 
 8.[Teaching material8](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/AI1_MLP.pdf)<br/>
-8_1.[Teaching material8_1](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/gradient.pdf)<br/br/>
+8_1.[Teaching material8_1](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/gradient.pdf)<br/><br/>
 9.[Teaching material9](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/AI2_CNN.pdf)<br/>
 10.[Teaching material10](https://github.com/jaewon-cho/jaewon-cho.github.io/raw/refs/heads/main/assets/teaching/AI3_VAE.pdf)<br/>
 
